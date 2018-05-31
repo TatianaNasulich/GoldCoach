@@ -1,0 +1,213 @@
+@media only screen and (max-width:1200px){
+
+    section  p {
+        margin-bottom: 20px;
+    }
+    section h3{
+        margin-top: 5px;
+
+    }
+}
+
+
+/*Medium Devices,Desktop*/
+@media only screen and (max-width:992px){
+    .presentation{
+        margin: 15px 0 30px;
+    }
+    .position button{
+        padding: 15px 0;
+    }
+    .menu{
+        margin: 20px 0 0 20px;
+    }
+    .box_1{
+        padding: 30px 25px;
+    }
+    .time{
+        margin-top: 2px;
+    }
+    .info .name{
+        margin-top: 20px;
+    }
+
+    .box_3 .name{
+        margin-bottom:30px ;
+        margin-top: 10px;
+    }
+    .box_5{
+       padding-bottom: 20px;
+    }
+    .block_2{
+        margin: 30px 0;
+    }
+    button{
+        margin-bottom: 10px;
+    }
+
+    section h3{
+      margin-top: 0;
+
+    }
+    section  p {
+        margin-bottom: 10px;
+    }
+
+}
+
+/*Small Devices,tablets*/
+@media only screen and (max-width:768px){
+
+    footer .text{
+        font-size: 24px;
+        margin: 10px 0 30px;
+    }
+    footer h6{
+        margin-bottom: 40px;
+    }
+    .submit {
+        padding: 15px 0;
+    }
+    .time_1{
+        border-radius: 5px;
+    }
+
+}
+
+
+/*Extra Small Devices,Phones*/
+@media only screen and (max-width:480px){
+    header h1{
+        font-size:26px;
+    }
+    .logo {
+        height: 25px;
+        width: 25px;
+    }
+    header .fa{
+        font-size: 20px;
+    }
+    .presentation{
+        margin: 10px 0 ;
+    }
+    .data{
+        margin-left: 10px;
+    }
+    .data .presentation{
+        font-size: 22px !important;
+    }
+    .time{
+        margin-left:10px;
+    }
+    .presentation{
+        margin: 10px 0 20px;
+    }
+    .menu{
+        margin: 0 0 0 10px;
+    }
+    .box_1{
+        padding: 20px;
+    }
+    .box_3 .name{
+        padding-left: 20px;
+        margin: 5px 0 20px 0;
+    }
+    .paragraph{
+        padding: 0 10px;
+        margin-bottom: 10px;
+    }
+    .box_2 .position{
+        margin: 10px 0;
+    }
+    .block_2{
+        margin: 15px 0;
+    }
+    .button{
+        padding: 7px 0 !important;
+    }
+    .for_business .text {
+        margin: 15px 0;
+    }
+    .for_business{
+        margin-bottom: 25px;
+    }
+    section h3{
+        padding-top: 10px;
+    }
+    section  p{
+        margin-bottom: 10px;
+    }
+
+    footer .text{
+        font-size: 18px;
+        margin: 10px 0 20px;
+    }
+    footer h6{
+        margin-bottom: 20px;
+    }
+    .submit {
+        padding: 8px 0 !important;
+    }
+    .social_icon{
+        font-size: 30px;
+        margin: 15px 0;
+    }
+}
+
+@media only screen and (max-width: 400px)  {
+    header h1{
+        font-size:22px;
+    }
+    .line{
+        border-width: 0.5px 0.5px 0.5px;
+    }
+    .presentation{
+        margin: 5px 0 15px;
+    }
+    button{
+        margin-bottom: 0;
+    }
+    .box_1{
+        padding: 15px;
+    }
+    .data{
+        margin-left: 10px;
+    }
+    .data .presentation{
+        font-size: 18px !important;
+    }
+    ul.menu {
+        padding-left: 10px;
+    }
+    .info .name{
+        margin-top: 15px;
+        font-size: 12px;
+    }
+    .position .box_2 p{
+    font-size: 10px;
+    }
+    .box_3 .name{
+        margin: 10px 0 15px 0;
+    }
+    .paragraph{
+        padding: 0 5px;
+        margin-bottom: 5px;
+    }
+    .paragraph i {
+        margin: 5px 5px 0 0;
+    }
+
+    .for_business .text {
+        margin: 15px 0;
+    }
+
+    footer .text{
+        font-size: 16px;
+        margin: 7px 0 15px;
+    }
+    footer h6{
+        margin-bottom: 20px;
+    }
+
+
+}
